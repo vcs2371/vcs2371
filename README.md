@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vcs2371
-- 👀 I’m interested in ...Full Stack!
+- 👀 I’m interested in ...Front End Development!
 - 🌱 I’m currently learning ...CSS! 
 
 
